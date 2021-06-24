@@ -5,7 +5,7 @@ import css from './Footer.module.scss';
 export const Footer = () => (
   <footer class={css.footer}>
     <div class={css['copy-area']}>
-      Made with&nbsp; <img src="/assets/emojis/love.svg" alt="❤" /> &nbsp;by Puru Vijay
+      Made with&nbsp; <img src="/assets/emojis/love.svg" alt="❤" /> &nbsp;by Orangemn6
     </div>
     <div class={css['social-links']}>
       <a
