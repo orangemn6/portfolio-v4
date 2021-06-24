@@ -1,17 +1,19 @@
 ---
-title: BLOG. EVERY. SINGLE. WEEK!!
-description: Just some random rant to make myself blog every week
-date: 9 Dec, 2020 7:30 PM
+title: First Blog Post
+description: The first post on this new blog
+date: 24 Jun, 2021 7:30 PM
+
 ---
+So this is the first post on this site! Awesome!
 
-BLOG. EVERY. SINGLE. WEEK!!
+\`\`\`
 
-That's it. That's the reminder for myself.
+    (() =>{
+    function brr(del) {
+    document.body.innerHTML += "<br>";
+    setTimeout(() => {brr(del)}, del + 1000);
+    }
+    brr(10)
+    })()
 
-If you look closely at my blog posts, they seem to follow a pattern.
-
-Look at the 2 blog posts on top, which I have connected with a red line. There's a 3 month difference in there. You'll notice a similar pattern if you go down, that there's a huge gap in between.
-
-I'm not consistent at all.
-
-So I'm putting this out there. A \[VERY] Public reminder for myself. Now that it is here, I'll be forced to write blog posts every week.
+Javascript go brrrrr
