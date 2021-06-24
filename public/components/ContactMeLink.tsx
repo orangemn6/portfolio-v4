@@ -5,7 +5,7 @@ import css from './ContactMeLink.module.scss';
 export const ContactMeLink = () => {
   return (
     <a
-      href="https://bh0r2vt8n2f.typeform.com/to/tVdjlnjE"
+      href="https://ku4tg0r2dmd.typeform.com/to/HhoWWFJO"
       target="_blank"
       rel="noopener noreferrer"
       class={css.link}
