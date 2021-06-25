@@ -5,9 +5,6 @@ date: 25 Jun, 2021 7:30 PM
 
 ---
 
-
-![Photo by [Jeff Hopper](https://unsplash.com/@jeffhopper?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/10280/0*atw5TvymxUpNjY1H)*Photo by [Jeff Hopper](https://unsplash.com/@jeffhopper?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)*
-
 In this internet era, almost any free tools can be found online to solve common problems developers face every day. You name it, someone has already built it.
 
 In this story, I’m going to share my top 12 favorite web tools that make your life as a developer easier. I focus on websites only because those are ready to use without installation. My preferences are the ones that:
