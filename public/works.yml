@@ -1,8 +1,8 @@
-- title: puruvj.dev
+- title: beta.orangemn6.xyz
   url: https://beta.orangemn6.xyz
   stack: svelte, sapper, html, css, js, nodejs, web
   description: >
-    This current website you are viewing 😁. Built in June 2021, it's the second revision.
+    This current website you are viewing. Built in June 2021, it's the second revision.
     It has JPG, PNG -> WebP conversion, generation of responsive images, and fallback mechanisms.
     The content is stored as markdown files locally in the `src/blogs` folder, 
     and converted to html and undergoes loads of modifications using [JSDOM](https://www.npmjs.com/package/jsdom)
