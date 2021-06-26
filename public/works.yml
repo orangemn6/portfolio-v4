@@ -22,3 +22,13 @@
     type: github
   image: chat.png
 
+
+- title: No Name Tech
+  url: https://shop.nonametech.gq
+  stack: reactjs, jamstack, nextjs, jamcart, web
+  description: >
+    An ecommerce site designed and built for No Name Tech, a company that makes custom mousepads and controllers.
+  repo:
+    url: https://github.com/orangemn6/noname-react
+    type: github
+  image: noname.png
