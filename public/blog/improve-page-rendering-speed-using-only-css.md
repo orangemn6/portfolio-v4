@@ -4,12 +4,10 @@ description: 4 Important CSS tips for faster page rendering
 date: 18 Aug, 2021 4:08 PM
 
 ---
-
 # Improve Page Rendering Speed Using Only CSS
 
 4 Important CSS tips for faster page rendering
 
-![Image by [Arek Socha](https://pixabay.com/users/qimono-1962238/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1726153) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1726153)](https://cdn-images-1.medium.com/max/2560/1*o38gRq5SvLMtgjMMo5Ph7A.jpeg)*Image by [Arek Socha](https://pixabay.com/users/qimono-1962238/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1726153) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1726153)*
 
 Users love fast web apps. They expect the page to load fast and to function smoothly. If there are breaking animations or lags when scrolling, there is a high chance of users leaving your website. As a developer, you could do many things to improve the user experience. This article will focus on 4 CSS tips you can use to improve the page rendering speed.
 
@@ -21,12 +19,10 @@ This feature is one of the latest additions, and it is one of the most impactful
 
 Let's consider the following page that contains many cards with different info. While about 12 cards fit the screen, there are approximately 375 cards in the list. As you can see, the browser has taken 1037ms to render this page.
 
-![Regular HTML page](https://cdn-images-1.medium.com/max/2256/1*8IqnZPmf3Gmw65XnMmQ6YQ.png)*Regular HTML page*
 
 As the next step, you can add content-visibility to all cards.
 > # In this example, after adding content-visibility to the page, rendering time dropped to 150ms. That's more than **6x** performance improvement.
 
-![With content-visibility](https://cdn-images-1.medium.com/max/2402/1*zL8hg1aj4ztMVDHe_W7BLQ.png)*With content-visibility*
 
 As you can see, content-visibility is pretty powerful and highly useful to improve the page rendering time. According to the things we discussed so far, you must be thinking of it as a silver bullet for page rendering.
 
@@ -40,7 +36,6 @@ As of this moment, Firefox (PC and Android versions), Internet Explorer (I donâ€
 * **Issues related to scroll-bar behavior**. 
 Since elements are initially rendered with 0px height, whenever you scroll down, these elements come into the screen. The actual content will be rendered, and the height of the element will be updated accordingly. This will make the scroll bar to behavior in an unintended manner.
 
-![Scroll behavior with content-visibility](https://cdn-images-1.medium.com/max/2000/1*_PZdobRzoAhQkqG-Kq5B3A.gif)*Scroll behavior with content-visibility*
 
 To fix the scroll bar issue, you can use another CSS property called contain-intrinsic-size. It specifies the natural size of an element. Therefore the element will be rendered with the given height instead of 0px.
 
@@ -53,13 +48,6 @@ However, while experimenting, I noticed that even with containt-intrinsic-size, 
 
 Therefore, my recommendation is to plan your layout, decompose it into a few sections and then use content-visibility on those sections for better scrollbar behavior.
 
-**Tip: Share your reusable components between projects using [Bit](https://bit.dev/) ([Github](https://github.com/teambit/bit)).**
-
-Bit makes it simple to share, document, and reuse independent components between projects**. **Use it to maximize code reuse, keep a consistent design, collaborate as a team, speed delivery, and build apps that scale.
-
-[**Bit](https://bit.dev/)** supports Node, React Native, React, Vue, Angular, and more.
-
-![Example: React components shared on [Bit.dev](https://bit.dev/)](https://cdn-images-1.medium.com/max/2000/0*wX7aqf12JHg5d12f.gif)*Example: React components shared on [Bit.dev](https://bit.dev/)*
 
 ## 2. Will-change property
 
@@ -84,9 +72,6 @@ Consider the following CSS class:
 When rendering the above snippet in the browser, it will recognize the will-change property and optimize future opacity-related changes.
 > # According to a performance benchmark done by [Maximillian Laumeister](https://www.maxlaumeister.com/articles/css-will-change-property-a-performance-case-study/), you can see that he has obtained over 120FPS rendering speed with this one-line change, which initially was at roughly 50FPS.
 
-![Without using will-change; Image by Maximilian](https://cdn-images-1.medium.com/max/2000/0*KP2Dz1t5MCjqapBm.png)*Without using will-change; Image by Maximilian*
-
-![With will-change; Image by Maximilian](https://cdn-images-1.medium.com/max/2000/0*SM3J13ZbiJeAfmRo.png)*With will-change; Image by Maximilian*
 
 ### **When not to use will-change**
 
@@ -116,8 +101,6 @@ CSS Object Model (CSSOM) is ready. Depending on your web application, you may ha
 
     <link rel="stylesheet" href="styles.css">
 
-![Single stylesheet](https://cdn-images-1.medium.com/max/2000/1*0LtBYTLTuUcK7J8ArX4sZA.png)*Single stylesheet*
-
 After decomposing it to multiple stylesheets:
 
     <!-- style.css contains only the minimal styles needed for the page rendering -->
@@ -125,8 +108,6 @@ After decomposing it to multiple stylesheets:
 
     <!-- Following stylesheets have only the styles necessary for the form factor -->
     <link rel="stylesheet" href="sm.css" media="(min-width: 20em)" /><link rel="stylesheet" href="md.css" media="(min-width: 64em)" /><link rel="stylesheet" href="lg.css" media="(min-width: 90em)" /><link rel="stylesheet" href="ex.css" media="(min-width: 120em)" /><link rel="stylesheet" href="print.css" media="print" />
-
-![](https://cdn-images-1.medium.com/max/2000/1*TiCgtB6JO9Ud5v0E0XblmQ.png)
 
 As you can see, having stylesheets decomposed according to form factors can reduce the render-blocking time.
 
@@ -141,11 +122,9 @@ With @import, we can include a stylesheet in another stylesheet. When we are wor
     # windows.css
     @import url("componenets.css");
 
-![Waterfall with imports](https://cdn-images-1.medium.com/max/2056/1*kmPjWDOBdfzyVLsiLYmENA.png)*Waterfall with imports*
 
 Instead of using @import we can achieve the same with much better performance by having multiple links as it allows us to load stylesheets in parallel.
 
-![Waterfall with linking](https://cdn-images-1.medium.com/max/2106/1*-KPFrviQosYgL1KTZUQHYw.png)*Waterfall with linking*
 
 ## Conclusion
 
@@ -153,13 +132,3 @@ Apart from the 4 areas we discussed in this article, there are few other ways we
 > # The most important thing is, we gained all the performance without writing a single statement of JavaScript.
 
 I am confident that you can incorporate some of the above features and build better-performing web apps for end-users. I hope the article is useful and if you know any CSS tips to improve web app performance, please mention them in the comments below. Thanks!
-
-## Learn More
-[**Performance Metrics for Front-End Applications**
-*Better UX by focusing on the right metrics*blog.bitsrc.io](https://blog.bitsrc.io/performance-metrics-for-front-end-applications-a04fdfde217a)
-[**8 Performance Analysis Tools for Front-End Development**
-*Recommended tools to test and analyze your frontend code performance.*blog.bitsrc.io](https://blog.bitsrc.io/performance-analysis-tools-for-front-end-development-a7b3c1488876)
-[**Creating morphing animations with CSS clip-path**
-*Learn how to implement morphing, a technique for transforming one appearance into another, using CSS.*blog.bitsrc.io](https://blog.bitsrc.io/creating-morphing-animations-with-css-clip-path-3c3bf5e4335f)
-[**4 Ways to Remove Unused CSS**
-*How to remove unused CSS to reduce your appâ€™s bundle size and maintain a clear and simple code.*blog.bitsrc.io](https://blog.bitsrc.io/4-ways-to-remove-unused-css-647828ca629b)
