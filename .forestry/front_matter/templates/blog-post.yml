@@ -11,3 +11,5 @@ fields:
 - type: text
   name: date
   label: date
+pages:
+- public/blog/improve-page-rendering-speed-using-only-css.md
