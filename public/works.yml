@@ -1,5 +1,5 @@
-- title: beta.orangemn6.xyz
-  url: https://beta.orangemn6.xyz
+- title: orangemn6.xyz
+  url: https://orangemn6.xyz
   stack: preact, html, css, js, nodejs, web
   description: >
     This current website you are viewing. Built in June 2021, it's the second revision.
@@ -32,3 +32,13 @@
     url: https://github.com/orangemn6/noname-react
     type: github
   image: noname.png
+
+- title: Crowdly
+  url: https://crowdly.orangemn6.xyz
+  stack: reactjs, mongodb, graphql, apollo, css
+  description: >
+    A social media site for humans, inhumans, mutants, and aliens. Started in September 2021, this was my first project using graphql.
+  repo:
+    url: https://github.com/crowdly-net/crowdly
+    type: github
+  image: crowdly.png
