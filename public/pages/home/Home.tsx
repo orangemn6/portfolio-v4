@@ -52,7 +52,7 @@ export default function Home() {
             Hi, I am <mark>Orangemn6</mark>
           </h1>
           <h2 class={css.aboutMe}>
-            I am a <mark>self-taught fullstack web developer</mark> based in the US with 4
+            I am a <mark>self-taught fullstack web developer</mark> based in the US with 4 
             years of hobbyist experience. I make <mark>blazing fast and performant</mark> web apps.
             Like this blog.
           </h2>
@@ -62,7 +62,7 @@ export default function Home() {
             <img
               class={css.photo}
               src="assets/photos/puru-profile.jpg"
-              alt="Puru Vijay Profile Photo"
+              alt="Puru Formatted Profile Photo"
             />
           </figure>
         </div>
