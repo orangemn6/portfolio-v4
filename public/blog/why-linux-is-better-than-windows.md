@@ -5,6 +5,9 @@ date: 20 Sep, 2021 7:30 PM
 series: Linux Tutorials
 
 ---
+
+{{ series-links }}
+
 It is often seen that people get confused over choosing Windows or Linux as a host operating system in both server and desktop spaces. People will focus on aspects of cost, the functionality provided, hardware compatibility, support, reliability, security, pre-built software, cloud-readiness, etc. before they finalize. In this regard, this article covers ten reasons for using Linux over Windows.  
 
 ## 10 Reasons Why Linux Is Better Than Windows
