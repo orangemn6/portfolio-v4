@@ -16,3 +16,5 @@ fields:
   config:
     required: false
   label: series
+pages:
+- public/blog/why-linux-is-better-than-windows.md
