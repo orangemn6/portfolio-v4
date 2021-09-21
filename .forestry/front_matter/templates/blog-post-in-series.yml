@@ -11,3 +11,8 @@ fields:
 - type: text
   name: date
   label: date
+- name: series
+  type: text
+  config:
+    required: false
+  label: series
