@@ -5,8 +5,6 @@ date: 20 Sep, 2021 7:30 PM
 series: Linux Tutorials
 
 ---
-
-
 It is often seen that people get confused over choosing Windows or Linux as a host operating system in both server and desktop spaces. People will focus on aspects of cost, the functionality provided, hardware compatibility, support, reliability, security, pre-built software, cloud-readiness, etc. before they finalize. In this regard, this article covers ten reasons for using Linux over Windows.  
 
 ## 10 Reasons Why Linux Is Better Than Windows
@@ -92,19 +90,4 @@ The inventor Linus Torvalds himself would not have imagined about this kind of s
 
 There is a saying – variety is the spice of life.  It is true with respect to Linux distros.  There are more than 600 active different distros to choose from. Each is different on its own and meant for a specific purpose. Linux distros are highly customizable when compared to Windows.  The above reasons mentioned are is just the tip of the iceberg. There is so much more than you could with Linux. Linux is powerful, flexible, secure, reliable, stable, fun… than Windows. One should always keep in mind that – free is not the best just like expensive is not the best.
 
-Linux will undoubtedly emerge as the winner when all aspects are considered. There is no reason why you would not choose Linux instead of Windows.  Let us know your thoughts on how you feel about Linux.  
-
-![][10]
-
-[1]: http://www.linuxandubuntu.com/wp-content/uploads/2019/07/linux-less-costly-than-windows.jpg
-[2]: http://www.linuxandubuntu.com/home/open-source-vs-closed-source
-[3]: http://www.linuxandubuntu.com/wp-content/uploads/2019/07/linux-mint-easy-to-use.jpg
-[4]: http://www.linuxandubuntu.com/home/how-to-install-wine-and-run-windows-apps-in-linux
-[5]: http://www.linuxandubuntu.com/wp-content/uploads/2019/07/linux-better-hardware-support.jpg
-[6]: http://www.linuxandubuntu.com/wp-content/uploads/2019/07/linux-vast-software-support.png
-[7]: http://www.linuxandubuntu.com/wp-content/uploads/2019/07/linux-is-more-secure-than-windows.jpg
-[8]: http://www.linuxandubuntu.com/wp-content/uploads/2019/07/linux-server.jpg
-[9]: http://www.linuxandubuntu.com/wp-content/uploads/2019/07/linux-is-everywhere.jpg
-[10]: http://www.linuxandubuntu.com/wp-content/uploads/2020/09/join-telegram-channel.png
-
-  
+Linux will undoubtedly emerge as the winner when all aspects are considered. There is no reason why you would not choose Linux instead of Windows.  
