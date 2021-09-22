@@ -84,42 +84,6 @@ Your life outside of work is important, and you should never neglect it. The sup
 
 Regular physical activity can help you better [deal with stress](https://www.mayoclinic.org/exercise-and-stress/art-20044469#:\~:text=Exercise%20increases%20your%20overall%20health,%2Dgood%20neurotransmitters%2C%20called%20endorphins.). It is also a great way to keep your mind busy and off work. Getting enough sleep restores well-being is [directly linked to productivity](https://journals.lww.com/joem/Abstract/2010/01000/The_Cost_of_Poor_Sleep__Workplace_Productivity.13.aspx). A healthy mind and body won’t get burned out as easily.
 
-## Practical advice from our team
-
-Now that we’ve covered all the theoretical guidelines on dealing with burnout, it’s time for some practical advice. We talked with our team to get insights on how they prevent and manage burnout. Here’s what we found out:
-
-### Alexandru, Creative Tim Co-Founder
-
-I’ve experienced burnout for multiple months in a row after having worked long periods. Now I usually stop working at 7-8 PM and move my attention to reading and listening to calm/Tibetan music (on apps like Headspace or Youtube). I also take 4-5 days of vacation every 1-2 months. Once a week, I smoke a cigar, which decreases my anxiety level for the next 2-3 days.
-
-### Beni, Full-Stack Developer at Creative Tim
-
-What works for me is taking breaks throughout the day and listening to music. I also take short periods off work once in a while. During my days off, I enjoy traveling and discovering new places. Hiking is also a relaxing activity that I try to do as often as I can.
-
-### Dragoș, Front-End Developer at Creative Tim
-
-Going to the gym is what helps me avoid developer burnout. I go daily and have been doing this for quite some time. Sometimes I go in the morning, so I am ready for a new day of coding, and sometimes I go in the evening to unwind after a full day at the office. Either way, sport relaxes me and keeps my mind off work. It also helps me focus and be present in the moment.
-
-### Rareș, Front-End Developer at Creative Tim
-
-What helps me keep burnout at bay is working on my personal web development projects. I always have side projects and coding experiments because they are fun and a great way to gain new coding skills that I can also use at work.
-
-### Manu, React Developer at Creative Tim
-
-“One of the small things I do to prevent burnout is to take a 5-minute break every hour, in which I do some physical exercises (abs, pushups, or squats). I also enjoy reading self-development books, so often after work, I pick up a book and dive into it for half an hour to an hour.
-
-### Ștefan, Front-End Developer at Creative Tim
-
-I’m trying to find a balance between the work hours and my personal life. I usually spend time in nature as a proactive person or practicing swimming, cycling, or other activities like reading to avoid burnout. “Mens sana in corpore sano”.
-
-### Alexandra, Marketing Manager at Creative Tim
-
-“Cooking is what gets my stress away. The launch break is my “Zen” time because I get to try new recipes almost daily, which makes me relaxed. I’ve forgotten about food delivery, especially since the pandemic started and I’m working from home.
-
-### Ana, Growth Marketer at Creative Tim
-
-I use a Pomodoro timer to take short breaks throughout the day. After hours I like to relax by practicing yoga or meditating. I also try to take days off once in a while to unwind, maybe go on a city break or visit nearby sights.
-
 ## Final Thoughts
 
 We hope now that you know more about developer burnout, you will be more mindful about your well-being at work, and keep an eye out for potential burnout symptoms. Since it’s better to prevent than to “treat”, make sure you follow our guidelines from the last part of the article to achieve a healthy work-life balance.
