@@ -16,8 +16,6 @@ Developer/programmer burnout is a state of mental and physical exhaustion caused
 
 Even though it is work-related, burnout can affect various aspects of your life, such as your family life, your health, or your friendships. You should identify burnout as soon as possible and take all necessary measures to recover from it.
 
-![](https://www.creative-tim.com/blog/content/images/wordpress/2021/04/tim-gouw-1K9T5YiZ2WU-unsplash-1024x685.jpg =730x488)
-
 ## How Can You Identify Developer Burnout?
 
 These are the most common symptoms associated with developer/programmer burnout. Keep in mind that you can get all of them, some of them or none at all. The burnout phenomenon manifests itself differently for each person. To qualify as burnout symptoms, these things need to happen for a longer period of time (like weeks, months, or even years), not just for a few days.
@@ -38,7 +36,6 @@ These are the unhealthy habits and circumstances that can lead to developer burn
 
 This is a very unhealthy habit, and it is a decisive factor in burning out. You could do this willingly to impress your superiors and advance in your career or take up as many freelancing development projects as possible to earn more money. No matter the reason, beware that overloading yourself with tasks and spending most of the day coding can eventually lead to burnout.
 
-![](https://www.creative-tim.com/blog/content/images/wordpress/2021/04/burnout02-1024x678.jpg =730x483)
 
 ### **Having a mundane coding job**
 
@@ -60,7 +57,6 @@ It’s as the Romans used to say, _“mens sana in corpore sano”_ (which trans
 
 You must be aware that burnout is a common phenomenon in the web development field. However, there are simple things you can do [to manage stress](https://thenextweb.com/growth-quarters/2020/09/05/how-to-manage-stress-as-a-developer-syndication/). Keep in mind there isn’t a one-size-fits-all recipe on how to avoid burnout or recover from it, but there are some guidelines that you can follow.
 
-![](https://www.creative-tim.com/blog/content/images/wordpress/2021/04/manny-pantoja-10bgCz0qkto-unsplash-683x1024.jpg =730x1095)
 
 ### **Take breaks throughout the day**
 
