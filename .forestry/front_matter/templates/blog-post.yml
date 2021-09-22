@@ -13,4 +13,5 @@ fields:
   label: date
 pages:
 - public/blog/improve-page-rendering-speed-using-only-css.md
+- public/blog/not-getting-burnt-out-in-web-development.md
 - public/blog/plagiarism-in-free-software.md
