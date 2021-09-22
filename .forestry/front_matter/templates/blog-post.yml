@@ -8,9 +8,15 @@ fields:
 - type: text
   name: description
   label: description
-- type: text
-  name: date
+- name: date
+  type: datetime
   label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - public/blog/improve-page-rendering-speed-using-only-css.md
 - public/blog/not-getting-burnt-out-in-web-development.md
