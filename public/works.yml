@@ -42,3 +42,13 @@
     url: https://github.com/crowdly-net/crowdly
     type: github
   image: crowdly.png
+  
+- title: Tertius
+   url: https://github.com/orangemn6/tertius
+   stack: html, css, js, devtools
+   description: >
+     A new tab page extension for Chrome and Firefox. Designed for productivity and aesthetics.
+   repo:
+    url: https://github.com/orangemn6/tertius
+    type: github
+   image: https://github.com/orangemn6/tertius/raw/master/.assets/screenshot.png
