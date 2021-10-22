@@ -51,4 +51,4 @@
    repo:
     url: https://github.com/orangemn6/tertius
     type: github
-   image: https://github.com/orangemn6/tertius/raw/master/.assets/screenshot.png
+   image: tertius.png
