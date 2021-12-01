@@ -17,4 +17,5 @@ fields:
     required: false
   label: series
 pages:
+- public/blog/til-there-s-more-than-one-kind-of-tectonic-plate.md
 - public/blog/why-linux-is-better-than-windows.md
